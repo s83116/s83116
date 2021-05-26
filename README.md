@@ -30,6 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<h6>Pyspark Airflow MQTT<h6>
 </div>
 
 </td><td valign="top" width="33%">
@@ -39,6 +40,8 @@
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<h6>EMR IOT-CORE EKS AmazonMQ Kinesis TimeStream Data-Lake-Formation Lambda-Function <h6>
+<h6>Terraform CloudFormation<h6>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -51,7 +54,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
