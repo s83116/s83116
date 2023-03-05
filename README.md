@@ -11,7 +11,7 @@
 - DevOps expertise in CICD pipeline creation for multi environment deployment.  
   
 
-- ❓ Ask me about anything related to Cloud, DevOps and related technologies  
+- Ask me about anything related to Cloud, DevOps and related technologies  
   
 
 <br/>  
